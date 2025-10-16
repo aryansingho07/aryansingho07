@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan Singh  
 
-🚀 **Full Stack Developer | MERN Stack | Competitive Programmer**  
+🚀 **Full Stack Developer | MERN Stack | Cloud & AI Enthusiast**  
 
 📍 Kashipur, Uttarakhand  
 📧 [aryansingh99840@gmail.com](mailto:aryansingh99840@gmail.com)  
@@ -9,11 +9,11 @@
 ---
 
 ## 💡 About Me  
-Passionate **MERN Stack Developer** with a knack for scalable apps, REST APIs, and modern DevOps.  
-- ⚡ Improved efficiency of systems by **30–40%**.  
-- 🐳 Skilled in **Docker, CI/CD, Cloud Deployments**.  
-- 🤖 Exploring **AI/ML & RAG pipelines**.  
-- 🏆 Hackathon finalist & avid problem-solver (400+ DSA problems on LeetCode).  
+Passionate **Full Stack Developer** with expertise in building scalable, high-performance applications using the **MERN stack**.  
+- ⚙️ Improved system efficiency by **30–40%** through optimization and caching.  
+- 🐳 Skilled in **Docker, CI/CD, Cloud Deployments (Vercel, AWS)**.  
+- 🤖 Exploring **AI/ML, RAG Pipelines, and Vector Databases (Qdrant)**.  
+- 🏆 Hackathon finalist & competitive programmer with **400+ LeetCode problems solved**.  
 
 ---
 
@@ -22,42 +22,51 @@ Passionate **MERN Stack Developer** with a knack for scalable apps, REST APIs, a
 **Backend:** Node.js, Express, JWT, Microservices  
 **Databases:** MongoDB, MySQL, Redis, Qdrant  
 **DevOps:** Docker, Vercel, AWS, GitHub Actions  
-**Languages:** JavaScript, TypeScript, Python, C++, Java  
+**Languages:** JavaScript (ES6+), TypeScript, Python, C++, Java  
 
 ---
 
 ## 🚀 Projects  
 
-### 📰 [NewsFlow AI](https://assignment-frontend-eight-theta.vercel.app/)  
-- [Frontend Repo](https://assignment-frontend-eight-theta.vercel.app/) | [Backend Repo](https://github.com/aryansingho07/Assignment_Backend)
-- [▶️ Watch the Demo Video](https://youtu.be/S_lvUw1fzWA) 
-- AI-powered platform processing **100K+ articles/day**.  
-- Semantic search, RAG pipeline, Google Gemini integration.  
-- Optimized with **Redis caching** & Dockerized for 99.9% uptime.  
-
----
-### ✍️ [MegaBlog Platform](https://12megablog-c5fd-2n593fl5y-aryansingho07s-projects.vercel.app/)  
-- Full-stack blogging with role-based auth & CRUD features.  
-- Lazy loading & pagination improved performance by 35%.  
-- CI/CD via Vercel cut release time by 70%.  
-
----
-### 🎥 [Video Hosting Platform (YouTube Clone)](https://github.com/aryansingho07/backend-project)  
-- [Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)  
-- Scalable backend for **1000+ concurrent users** (<150ms latency).  
-- Secure auth with **JWT + Bcrypt**, reducing unauthorized access by 95%.  
-- Designed optimized schemas for large datasets.  
+### 🛍️ [E-Commerce Platform](https://ecommerce-eight-navy.vercel.app/)
+- 🌐 [Live Demo](https://ecommerce-eight-navy.vercel.app/) | 💻 [GitHub Repo](https://github.com/aryansingho07/ecommerce)
+- Modern, responsive e-commerce app with **product search, filtering, cart management, and checkout**.
+- Built using **React + Vite + Redux Toolkit + Tailwind CSS**.
+- Enhanced performance via **dual-layer caching (localStorage + Redux)**.
+- Real-time search, validation-based checkout, and optimized rendering for smooth UX.
 
 ---
 
+### 📰 [NewsFlow AI](https://assignment-frontend-eight-theta.vercel.app/)
+- 🎥 [Demo Video](https://youtu.be/S_lvUw1fzWA) | 💻 [GitHub Repo](https://github.com/aryansingho07/Assignment_Frontend.git)
+- AI-driven platform processing **100K+ articles/day** with semantic search and contextual insights.
+- Integrated **RAG pipelines with Qdrant** and Google Gemini.
+- Optimized with **Redis caching**, reducing API latency by **60%**.
+- Dockerized deployment with **99.9% uptime**.
 
+---
+
+### 🎥 [Video Hosting Platform (YouTube Clone)](https://github.com/aryansingho07/backend-project.git)
+- 🧠 [Model](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
+- Secure backend supporting **1000+ concurrent users** (<150ms latency).
+- Implemented **JWT + Bcrypt authentication**, cutting unauthorized access by 95%.
+- Designed scalable MongoDB schemas for large video datasets.
+
+---
+
+### ✍️ [MegaBlog Platform](https://12megablog-c5fd-2n593fl5y-aryansingho07s-projects.vercel.app/)
+- Full-stack blogging platform with **role-based auth** and CRUD functionality.
+- Added **lazy loading & pagination**, improving performance by 35%.
+- Deployed via **Vercel CI/CD pipelines**, reducing release time by 70%.
+
+---
 
 ## 🏆 Achievements  
-- 🎓 AWS Cloud Practitioner (2024)  
-- 🥉 Top 10 – ACM Hackathon (2023)  
-- 🏅 Top 25 – Hack-o-Holic Hackathon (2023)  
-- 💡 Solved **400+ DSA problems** on LeetCode  
-- 🤼 District-level Kabaddi Player  
+- ☁️ **AWS Cloud Practitioner (2024)** — Certified cloud fundamentals.  
+- 🥉 **Top 10 Finalist** — ACM Hackathon, Graphic Era University (2023).  
+- 🏅 **Top 25** — Hack-o-Holic 24-Hour Hackathon (2023).  
+- 💡 Solved **400+ DSA problems** on LeetCode (Top 10% globally).  
+- 🤼 **District-level Kabaddi Player** demonstrating teamwork and leadership.  
 
 ---
 
